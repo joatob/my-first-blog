@@ -25,7 +25,8 @@ SECRET_KEY = '2nd%jy1bbi5#_@l9ns*y4l5xa^=^&o1$5**oc(lrs-fzrq2-k4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["joatob.pythonanywhere.com",]
+ALLOWED_HOSTS = ["joatob.pythonanywhere.com",
+				"127.0.0.1",]
 
 
 # Application definition
